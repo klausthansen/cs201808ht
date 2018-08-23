@@ -22,6 +22,10 @@ namespace variabel2
             kommatal *= 2;
             Console.WriteLine(kommatal);
 
+            bool b1 = true;
+            bool b2 = false;
+
+
             Console.ReadKey();
         }
     }
