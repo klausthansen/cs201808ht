@@ -10,6 +10,7 @@ namespace variabler
     {
         static void Main(string[] args)
         {
+        //
         }
     }
 }
